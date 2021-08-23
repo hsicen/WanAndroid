@@ -1,0 +1,1 @@
+/** * 作者：hsicen  8/23/21 16:18 * 邮箱：codinghuang@163.com * 作用： * 描述：WanAndroid */object ProjectConfigs {    const val compileSdk = 30    const val minSdk = 21    const val targetSdk = 30    const val versionCode = 1    const val versionName = "1.0.0"    const val applicationId = "com.hsicen.wanandroid"}

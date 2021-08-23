@@ -49,8 +49,8 @@ android {
 }
 
 dependencies {
-    implementation(DepsGroup.coreAndroid)
-    implementation(DepsGroup.composeBase)
+    implementation(DepsGroup.coreUi)
+    implementation(DepsGroup.compose)
     implementation(DepsGroup.activity)
     implementation(DepsGroup.lifecycle)
 

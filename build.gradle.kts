@@ -6,6 +6,7 @@ buildscript {
     dependencies {
         classpath(Deps.gradle)
         classpath(Deps.KotlinGradle)
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21")
     }
 }
 

@@ -1,4 +1,4 @@
-package com.hsicen.wanandroid.ui.theme
+package com.hsicen.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

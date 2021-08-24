@@ -54,6 +54,8 @@ dependencies {
     implementation(DepsGroup.activity)
     implementation(DepsGroup.lifecycle)
 
+    implementationModule(Module.theme)
+
     testImplementation(DepsGroup.testLib)
     androidTestImplementation(DepsGroup.androidTestLib)
     debugImplementation(DepsGroup.debugLib)

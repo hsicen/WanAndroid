@@ -1,8 +1,8 @@
 plugins {
-    id("comm-compose-module")
+  id("comm-compose-module")
 }
 
 dependencies {
-    implementation(DepsGroup.coreUi)
-    implementation(DepsGroup.compose)
+  implementation(DepsGroup.coreUi)
+  implementation(DepsGroup.compose)
 }
